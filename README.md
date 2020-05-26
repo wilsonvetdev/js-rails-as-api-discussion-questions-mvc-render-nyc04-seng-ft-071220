@@ -20,6 +20,3 @@ Write your best answers to the following questions, then discuss with your group
 Check out the rails app in the `rendering` folder. `bundle install` and `rails s` to get things running.
 
 Open `config/routes.rb` and `app/controllers/responses_controller.rb`. Add the `render`, `send_data`, and `send_file` lines to the controller so that all the routes work. Check them all by visiting the urls in the browser.
-
-
-
